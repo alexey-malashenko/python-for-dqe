@@ -104,7 +104,7 @@ def normalize(a):
                     plist.append(t_list[t].split('. ')[f].capitalize())
                 list_to_string = ''.join(map(str, plist))
             app_list.append(list_to_string)
-    debug(f'App_list is:\n{app_list}')
+    # debug(f'App_list is:\n{app_list}')
     return app_list
 
 
