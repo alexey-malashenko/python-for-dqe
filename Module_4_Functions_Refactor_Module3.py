@@ -1,19 +1,5 @@
 import re
 
-# ...copy these Text to variable...
-
-conditions = r'''homEwork:
-	tHis iz your homeWork, copy these Text to variable. 
-
-	You NEED TO normalize it fROM letter CASEs point oF View. also, create one MORE senTENCE witH LAST WoRDS of each existING SENtence and add it to the END OF this Paragraph.
-
-	it iZ misspeLLing here. fix“iZ” with correct “is”, but ONLY when it Iz a mistAKE. 
-
-	last iz TO calculate nuMber OF Whitespace characteRS in this Text. caREFULL, not only Spaces, but ALL whitespaces. I got 87.
-'''
-
-# use decorator for debugging
-
 
 def decorator_function(func):
     def wrapper(a):
@@ -39,19 +25,10 @@ def foo_count_whitespaces(var_text):
     return count
 
 
-debug(f"Initial number of whitespace characters is: "
-      f"{foo_count_whitespaces(conditions)}")
-
-# function to ...fix“iZ” with correct “is”, but ONLY when it Iz
-# a mistAKE... and get lower letters
-
-
 def iz_is(par):
     i = re.sub(r' iz ', ' is ', par.lower())
     return i
 
-
-debug(f'Check lower case and "is" replaced:\n{iz_is(conditions)}')
 
 # function to ...create one MORE senTENCE witH LAST WoRDS of
 # each existING SENtence...
@@ -63,12 +40,6 @@ def foo_additional_sent(a):
         add_it.extend(re.findall(r'\w+$', s))
     add_it = (' '.join(str(e) for e in add_it).capitalize() + '.')
     return add_it
-
-
-debug(f'Check additional sentence:\n{foo_additional_sent(iz_is(conditions))}')
-
-# function to ...You NEED TO normalize it fROM letter CASEs point
-# oF View.
 
 
 def normalize(a):
@@ -108,12 +79,44 @@ def normalize(a):
     return app_list
 
 
-# join to string
-homework = ''.join(map(str, normalize(iz_is(conditions))))
+if __name__ == "__main__":
 
-# ...and add it to the END OF this Paragraph...
-homework = re.sub('paragraph.', 'paragraph. ' + foo_additional_sent(iz_is(conditions)), homework)
 
-# print the result
-print(homework)
-print(f"Number of whitespace characters is {foo_count_whitespaces(homework)}")
+# ...copy these Text to variable...
+
+    conditions = r'''homEwork:
+	tHis iz your homeWork, copy these Text to variable. 
+
+	You NEED TO normalize it fROM letter CASEs point oF View. also, create one MORE senTENCE witH LAST WoRDS of each existING SENtence and add it to the END OF this Paragraph.
+
+	it iZ misspeLLing here. fix“iZ” with correct “is”, but ONLY when it Iz a mistAKE. 
+
+	last iz TO calculate nuMber OF Whitespace characteRS in this Text. caREFULL, not only Spaces, but ALL whitespaces. I got 87.
+'''
+
+# use decorator for debugging
+
+
+    debug(f"Initial number of whitespace characters is: "
+          f"{foo_count_whitespaces(conditions)}")
+
+# function to ...fix“iZ” with correct “is”, but ONLY when it Iz
+# a mistAKE... and get lower letters
+
+
+
+
+# debug(f'Check additional sentence:\n{foo_additional_sent(iz_is(conditions))}')
+
+# function to ...You NEED TO normalize it fROM letter CASEs point
+# oF View.
+
+    # join to string
+    homework = ''.join(map(str, normalize(iz_is(conditions))))
+
+    # ...and add it to the END OF this Paragraph...
+    homework = re.sub('paragraph.', 'paragraph. ' + foo_additional_sent(iz_is(conditions)), homework)
+
+    # print the result
+    print(homework)
+    print(f"Number of whitespace characters is {foo_count_whitespaces(homework)}")

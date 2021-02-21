@@ -33,12 +33,18 @@
 
 # --------------------------  HOME WORK -------------------------------
 import os
+import re
 from time import gmtime, strftime, strptime
 from datetime import datetime
 from Module_4_Functions_Refactor_Module3 import normalize as norm
 
+# some global variables
+publication_type = ''
+path_name = ''
+text_from_file = []
 
-# parent object (Inheritance).
+
+# parent object (Inheritance). Have common attributes with News, Ad and Zen
 class Publication:
 
     def __init__(self, name, text):
@@ -56,7 +62,7 @@ class News(Publication):
 
 # child from Publication for Advertisement
 class Ad(Publication):
-    def __init__(self, name, text, expiration_date):
+    def __init__(self, name, text, expiration_date='01/01/1900'):
         Publication.__init__(self, name, text)
         self.expiration_date = expiration_date
         self.current_date = strftime('%d/%m/%Y', gmtime())
@@ -74,13 +80,15 @@ class Ad(Publication):
                                              "expiration date DD/MM/YYYY\n")
             else:
                 self.expiration_date = str(self.expiration_date)
+                self.get_days_left()
                 break
 
     # get days left
-    def foo_days_left(self):
+    def get_days_left(self):
         last = datetime.strptime(self.expiration_date, '%d/%m/%Y')
         now = datetime.strptime(self.current_date, '%d/%m/%Y')
         self.days_left = (last - now).days
+        # return self.days_left
 
 
 # child from Publication for my oun block
@@ -91,7 +99,8 @@ class ZenOfPython(Publication):
         self.principle = dict()
         self.number_of_principle = int
 
-    # get dictionary with Zen principles
+    # get a dictionary with Zen principles. It could be public and it
+    # could be called once, but I want to implement it as is
     def get_zen_dict(self):
         zen = """Beautiful is better than ugly.
                 Explicit is better than implicit.
@@ -153,68 +162,96 @@ class PrintIntoFile:
     def print_publication(self):
         f = open('module_5_homework_result.txt', 'a')
         f.write(self.publication + '\n')
+        f.close()
 
 
-publ_name = ''
-path_name = ''
-
-
-# additional class to get information (Task module 6)
+# additional class to get information from File
+# and batch method (Task module 6)
 class GetFromFile:
     def __init__(self):
         self.record_type = int()
-        self.publ_name = str
+        self.type_of_input = str
         self.path_name = str
+        self.text = str
+        self.list_temp = []
+        self.x = int
 
     def input_text(self):
-        global publ_name
-        while publ_name not in (1, 2):
+        while publication_type not in (1, 2):
             try:
-                self.publ_name = int(input(f"Please for enter your "
-                                           f"{publ_name} manually - enter 1 "
-                                           f"or 2 for get {publ_name} "
-                                           f"from the file: "))
+                self.type_of_input = int(input(f"Please for enter your "
+                                               f"{publication_type} manually "
+                                               f"enter 1. To get "
+                                               f"{publication_type} from the "
+                                               f"file enter 2: "))
             except ValueError:
                 print("Sorry, I didn't understand that. Only numbers "
                       "please")
             else:
-                if self.publ_name == 1:
-                    publ_name = input(f"Please enter your {publ_name}: ")
+                if self.type_of_input == 1:
+                    text_from_file.append(input(f"Please enter your "
+                                                f"{publication_type}: "))
                     break
-                if self.publ_name == 2:
-                    print('Please note that file name should be Publication.txt')
+                if self.type_of_input == 2:
+                    print('Please note that default file name is '
+                          'Publication.txt in Publikation catalog')
                     global path_name
-                    self.path_name = input(f"Please enter your Catalog or Enter to use default: ")
-                    # need to add an error handler
+                    self.path_name = input(f"Please enter your file path or "
+                                           f"Enter to use default: ")
+
                     if self.path_name == '':
                         script_dir = os.path.dirname(__file__)
-                        path_name = os.path.join(script_dir, 'Publikation\\Publication.txt')
-                        file = open(path_name, 'r')
-                        publ_name = file.read()
-                        publ_name = ''.join(map(str, norm(publ_name)))
-                        file.close()
-                        os.remove(path_name)
+                        path_name = os.path.join(script_dir, 'Publikation\\'
+                                                             'Publication.txt')
+                        self.check_path_to_file()
+                        self.parse_rows_from_text_file()
                         break
                     if self.path_name != '':
                         path_name = self.path_name
-                        file = open(path_name, 'r')
-                        publ_name = file.read()
-                        publ_name = ''.join(map(str, norm(publ_name)))
-                        file.close()
-                        os.remove(path_name)
+                        self.check_path_to_file()
+                        self.parse_rows_from_text_file()
                         break
-                if self.publ_name not in (1, 2):
+                if self.type_of_input not in (1, 2):
                     print("Please make your choice only between 1 and 2")
-        return publ_name
+        return text_from_file
 
-    def read_news_from_text(self):
-        pass
+    def check_path_to_file(self):
+        self.x: int = 1
+        while self.x > 0:
+            global path_name
+            try:
+                test_file = open(path_name)
+                test_file.close()
+            except IOError:
+                print('File not found or cannot be opened')
+                path_name = input(f"Please enter your file path: ")
+            else:
+                self.x = 0
+
+    def parse_rows_from_text_file(self):
+        self.text = open(path_name, 'r')
+        global text_from_file
+        text_from_file = self.text.read()
+        text_from_file = ''.join(map(str, norm(text_from_file)))
+        text_from_file = os.linesep.join([s for s in
+                                          text_from_file.splitlines() if s])
+        text_from_file = text_from_file.split('\n')
+        for row in text_from_file:
+            reg = re.compile('[^a-zA-Z ,.]')
+            row = reg.sub('', row)
+            self.list_temp.append(row)
+        self.text.close()
+        text_from_file = self.list_temp
+
+        # Delete file after reading all rows
+        os.remove(path_name)
 
 
 # This is the main class
 class Main:
     def __init__(self):
         self.record_type = int()
+        self.publication = ''
 
     def input_record_type(self):
         while True:
@@ -236,33 +273,28 @@ class Main:
                     if self.record_type not in (1, 2, 3, 5):
                         print("Please make your choice 1, 2, 3 or 5")
             else:
-                global publ_name
+                global publication_type
                 input_text = GetFromFile()
                 if self.record_type == 1:
-                    publ_name = 'News'
+                    publication_type = 'News'
+
                     news = News('News -------------------------',
                                 # input("Please enter your News: "),
                                 input_text.input_text(),
                                 input("Please enter your City: "))
-                    publication = f'{news.name}\n{news.text}\n{news.city}, ' \
-                                  f'{str(news.current_date)}\n'
-                    publication = PrintIntoFile(publication)
-                    publication.print_publication()
+                    self.decomposition_batch(news)
                     self.record_type = 0
 
                 if self.record_type == 2:
-                    publ_name = 'Ad'
+                    publication_type = 'Ad'
                     ad = Ad('Private Ad -------------------',
                             # input("Please enter your Ad: "),
                             input_text.input_text(),
                             input("Please enter expiration date: "))
+
                     ad.checking_expiration_date()
-                    ad.foo_days_left()
-                    publication = f'{ad.name}\n{ad.text}\nActual until: ' \
-                                  f'{str(ad.expiration_date)}, ' \
-                                  f'{str(ad.days_left)} days left\n'
-                    publication = PrintIntoFile(publication)
-                    publication.print_publication()
+
+                    self.decomposition_batch(ad)
                     self.record_type = 0
 
                 if self.record_type == 3:
@@ -278,6 +310,52 @@ class Main:
                     publication.print_publication()
                     self.record_type = 0
 
+    def decomposition_batch(self, name):
+        global text_from_file
+        for batch in text_from_file:
+            name.text = batch
+            if publication_type == 'News':
+                self.publication = f'{name.name}\n{name.text}\n{name.city}, ' \
+                                   f'{str(name.current_date)}\n'
+            if publication_type == 'Ad':
+                self.publication = f'{name.name}\n{name.text}\nActual until: '\
+                                   f'{str(name.expiration_date)}, ' \
+                                   f'{str(name.days_left)} days left\n'
+            publication = PrintIntoFile(self.publication)
+            publication.print_publication()
+        # global text_from_file
+        text_from_file = []
 
-a = Main()
-a.input_record_type()
+
+class CreateFile:
+    def __init__(self):
+        self.path_name = str
+
+    def create_test_file_if_nedeed(self):
+        self.path_name = os.path.dirname(__file__)
+        self.path_name = os.path.join(self.path_name, 'Publikation\\'
+                                                      'Publication.txt')
+        try:
+            def_file = open(self.path_name, 'x')
+            def_file.write(r'''homEwork:
+	tHis iz your homeWork, copy these Text to variable. 
+
+	You NEED TO normalize it fROM letter CASEs point oF View. also, create one MORE senTENCE witH LAST WoRDS of each existING SENtence and add it to the END OF this Paragraph.
+
+	it iZ misspeLLing here. fix“iZ” with correct “is”, but ONLY when it Iz a mistAKE. 
+
+	last iz TO calculate nuMber OF Whitespace characteRS in this Text. caREFULL, not only Spaces, but ALL whitespaces. I got 87.
+''')
+            def_file.close()
+        except IOError:
+            return True
+        else:
+            return True
+
+
+if __name__ == "__main__":
+    # if you need a test file - please uncomment the text below
+    # file = CreateFile()
+    # file.create_test_file_if_nedeed()
+    a = Main()
+    a.input_record_type()
