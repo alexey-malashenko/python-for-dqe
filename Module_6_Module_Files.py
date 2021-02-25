@@ -34,9 +34,11 @@
 # --------------------------  HOME WORK -------------------------------
 import os
 import re
+import Module_7_CSV_Parsing as Csv
 from time import gmtime, strftime, strptime
 from datetime import datetime
 from Module_4_Functions_Refactor_Module3 import normalize as norm
+
 
 # some global variables
 publication_type = ''
@@ -163,6 +165,8 @@ class PrintIntoFile:
         f = open('module_5_homework_result.txt', 'a')
         f.write(self.publication + '\n')
         f.close()
+        Csv.CSVParsing().create_word_count_csv()
+        Csv.CSVParsing().create_letters_csv()
 
 
 # additional class to get information from File
