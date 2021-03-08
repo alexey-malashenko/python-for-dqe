@@ -192,3 +192,118 @@ Although practicality beats purity.
 Actual until: 05/01/2022, 311 days left
 -----------------------------------------------
 
+Private Ad --------------------
+Readability counts.
+Actual until: 01/01/2025, 1395 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Although practicality beats purity.
+Actual until: 15/10/2022, 586 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Errors should never pass silently.
+Actual until: 01/09/2032, 4195 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Unless explicitly silenced.
+Actual until: 01/10/2028, 2764 days left
+-----------------------------------------------
+
+News --------------------
+Readability counts.
+01/10/2028, 08/03/2021 21:20
+-----------------------------------------------
+
+News --------------------
+Although practicality beats purity.
+05/01/2022, 08/03/2021 21:20
+-----------------------------------------------
+
+The Zen of Python --------------------
+Readability counts.
+Number of Zen is: 7
+-----------------------------------------------
+
+The Zen of Python --------------------
+Although practicality beats purity.
+Number of Zen is: 9
+-----------------------------------------------
+
+The Zen of Python --------------------
+Errors should never pass silently.
+Number of Zen is: 10
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+News --------------------
+Readability counts.
+01/01/2025, 08/03/2021 21:21
+-----------------------------------------------
+
+News --------------------
+Although practicality beats purity.
+15/10/2022, 08/03/2021 21:21
+-----------------------------------------------
+
+News --------------------
+Errors should never pass silently.
+01/09/2032, 08/03/2021 21:21
+-----------------------------------------------
+
+News --------------------
+Unless explicitly silenced.
+01/10/2028, 08/03/2021 21:21
+-----------------------------------------------
+
+News --------------------
+Readability counts.
+01/01/2025, 08/03/2021 21:22
+-----------------------------------------------
+
+News --------------------
+Readability counts.
+01/01/2025, 08/03/2021 21:24
+-----------------------------------------------
+
+News --------------------
+Although practicality beats purity.
+15/10/2022, 08/03/2021 21:24
+-----------------------------------------------
+
+News --------------------
+Errors should never pass silently.
+01/09/2032, 08/03/2021 21:24
+-----------------------------------------------
+
+News --------------------
+Unless explicitly silenced.
+01/10/2028, 08/03/2021 21:24
+-----------------------------------------------
+
+The Zen of Python --------------------
+Readability counts.
+Number of Zen is: 7
+-----------------------------------------------
+
+The Zen of Python --------------------
+Although practicality beats purity.
+Number of Zen is: 9
+-----------------------------------------------
+
+The Zen of Python --------------------
+Errors should never pass silently.
+Number of Zen is: 10
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+

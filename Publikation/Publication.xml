@@ -1,0 +1,18 @@
+<root>
+    <publication name="Ad">
+        <text>Readability counts.</text>
+        <other_param>01/01/2025</other_param>
+    </publication>
+    <publication name="Ad">
+        <text>Although practicality beats purity.</text>
+        <other_param>15/10/2022</other_param>
+    </publication>
+    <publication name="Ad">
+        <text>Errors should never pass silently.</text>
+        <other_param>01/09/2032</other_param>
+    </publication>
+    <publication name="Ad">
+        <text>Unless explicitly silenced.</text>
+        <other_param>01/10/2028</other_param>
+    </publication>
+</root>

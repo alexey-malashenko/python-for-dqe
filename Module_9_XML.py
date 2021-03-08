@@ -6,8 +6,8 @@
 
 # Homework:
 #
-# Expand previous Homework 5/6/7 with additional class, which allow to provide
-# records by JSON file:
+# Expand previous Homework 5/6/7/8 with additional class, which allow to
+# provide records by XML file:
 # Define your input format (one or many records)
 # Default folder or user provided file path
 # Remove file if it was successfully processed
@@ -19,6 +19,7 @@ import json
 import csv
 import re
 import collections
+import xml.etree.ElementTree as ElTr
 from time import gmtime, strftime, strptime
 from datetime import datetime
 from Module_4_Functions_Refactor_Module3 import normalize as norm
@@ -192,7 +193,7 @@ class InputParameters:
             self.get_type_of_input()
 
     def get_type_of_input(self):
-        while self.type_of_input not in (1, 2, 3):
+        while self.type_of_input not in (1, 2, 3, 4):
             try:
                 self.type_of_input = int(
                     input(f"Please for enter your Publication manually "
@@ -200,14 +201,17 @@ class InputParameters:
                           f"Publication from the "
                           f"txt file enter 2\nTo get "
                           f"Publication from the "
-                          f"JSON file enter 3\n: "))
+                          f"JSON file enter 3\nTo get "
+                          f"Publication from the "
+                          f"XML file enter 4\n: "))
             except ValueError:
                 print("Sorry, I didn't understand that. Only numbers "
                       "please")
             else:
                 if self.type_of_input == 1:
                     break
-                if self.type_of_input == 2 or self.type_of_input == 3:
+                if self.type_of_input == 2 or self.type_of_input == 3\
+                        or self.type_of_input == 4:
                     print('File path definition.')
                     self.get_path_name()
 
@@ -230,7 +234,15 @@ class InputParameters:
                       'Publication.json in Publikation catalog')
                 script_dir = os.path.dirname(__file__)
                 self.path_name = os.path.join(script_dir,
+                                              'Publikation\\'
                                               'Publication.json')
+            if self.type_of_input == 4:
+                print('Please note that default file name is '
+                      'Publication.xml in Publikation catalog')
+                script_dir = os.path.dirname(__file__)
+                self.path_name = os.path.join(script_dir,
+                                              'Publikation\\'
+                                              'Publication.xml')
 
     def check_path_to_file(self):
         x: int = 1
@@ -349,6 +361,39 @@ class GetPublicationFromJSON:
         os.remove(input_parameters.path_name)
 
 
+class GetPublicationFromXML:
+    def __init__(self):
+        self.text = []
+        self.parse_rows_from_xml_file()
+
+    def parse_rows_from_xml_file(self):
+        f = open(input_parameters.path_name, 'r')
+        self.text = ElTr.parse(f)
+        root = self.text.getroot()
+
+        for publication_xml in root.findall('publication'):
+            for text in publication_xml.findall('text'):
+                publication.text.append(text.text)
+                if input_parameters.type_of_content == 3:
+                    publication.number_of_principle. \
+                        append(publication.get_principle_number(text.text))
+            for other_param in publication_xml.findall('other_param'):
+                if input_parameters.type_of_content == 1:
+                    publication.city.append(other_param.text)
+                if input_parameters.type_of_content == 2:
+                    publication.expiration_date. \
+                        append(publication.
+                               checking_expiration_date(other_param.text))
+                    publication.days_left.append(publication.
+                                                 get_days_left(other_param.
+                                                               text))
+
+        f.close()
+
+        # Delete file after reading all rows
+        os.remove(input_parameters.path_name)
+
+
 class CSVParsing:
     def __init__(self):
         self.text_input = str
@@ -436,7 +481,8 @@ class CreateFile:
 
     def create_test_json_file_if_needed(self):
         self.path_name = os.path.dirname(__file__)
-        self.path_name = os.path.join(self.path_name, 'Publication.json')
+        self.path_name = os.path.join(self.path_name, 'Publikation\\'
+                                                      'Publication.json')
         try:
             def_file = open(self.path_name, 'x')
             def_file.write(json.dumps([{"text": "Readability counts.",
@@ -450,6 +496,36 @@ class CreateFile:
         else:
             return True
 
+    def create_test_xml_file_if_needed(self):
+        self.path_name = os.path.dirname(__file__)
+        self.path_name = os.path.join(self.path_name, 'Publikation\\'
+                                                      'Publication.xml')
+        try:
+            def_file = open(self.path_name, 'x')
+            def_file.write('''<root>
+    <publication name="Ad">
+        <text>Readability counts.</text>
+        <other_param>01/01/2025</other_param>
+    </publication>
+    <publication name="Ad">
+        <text>Although practicality beats purity.</text>
+        <other_param>15/10/2022</other_param>
+    </publication>
+    <publication name="Ad">
+        <text>Errors should never pass silently.</text>
+        <other_param>01/09/2032</other_param>
+    </publication>
+    <publication name="Ad">
+        <text>Unless explicitly silenced.</text>
+        <other_param>01/10/2028</other_param>
+    </publication>
+</root>''')
+            def_file.close()
+        except IOError:
+            return True
+        else:
+            return True
+
 
 if __name__ == "__main__":
     while True:
@@ -457,6 +533,7 @@ if __name__ == "__main__":
         file = CreateFile()
         file.create_test_txt_file_if_needed()
         file.create_test_json_file_if_needed()
+        file.create_test_xml_file_if_needed()
 
         # main code
         input_parameters = InputParameters()
@@ -476,6 +553,12 @@ if __name__ == "__main__":
                 print_into.print_publication()
         if input_parameters.type_of_input == 3:
             GetPublicationFromJSON()
+            for p in range(len(publication.text)):
+                publication.get_full_publication(p)
+                print_into = PrintIntoFile(publication.full_publication)
+                print_into.print_publication()
+        if input_parameters.type_of_input == 4:
+            GetPublicationFromXML()
             for p in range(len(publication.text)):
                 publication.get_full_publication(p)
                 print_into = PrintIntoFile(publication.full_publication)
