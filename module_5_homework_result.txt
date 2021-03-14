@@ -1438,3 +1438,33 @@ Although practicality beats purity.
 Number of Zen is: 9
 -----------------------------------------------
 
+News --------------------
+Happy New json.
+London, 14/03/2021 06:27
+-----------------------------------------------
+
+News --------------------
+Happy json me.
+Addis Ababa, 14/03/2021 06:27
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the json.
+Actual until: 01/10/2028, 2758 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell json dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
