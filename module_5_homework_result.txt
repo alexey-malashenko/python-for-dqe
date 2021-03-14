@@ -1,170 +1,81 @@
-News -------------------------
-Ggggsdkejdkwckmwc
-Minsk, 24/02/2021 20:54
-
-Private Ad -------------------
-Dmfkdmflkegflfm dslmlsvl
-Actual until: 01/01/2009, -4437 days left
-
-News -------------------------
-Fhjhdjijdiewmixmowewovr
-London, 24/02/2021 21:20
-
-News -------------------------
-Ghbdtn
-Vbycr, 25/02/2021 00:28
-
-Private Ad -------------------
-ninjnbjkbkjnjknkkku ghkj jgjg jhg jh gjhg kjh ghf ghfhgf hgf hgf gfj
-Actual until: 01/01/2054, 11998 days left
-
-News -------------------------
-jkjjhkjhkjkj  kjkj kj kj kj kj kj k jklj  k  k kk jk kl jk kjj k kj k k
-hjgj gj jh jj j gj , 25/02/2021 00:38
-
-News -------------------------
-srvbtbtsb
-WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW, 25/02/2021 00:42
-
-News -------------------------
-QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
-QQQQQQQQQQQQQ, 25/02/2021 00:44
-
-News -------------------------
-QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
-QQQQQQQQQQQQQQ, 25/02/2021 00:44
-
-News -------------------------
-QQQQQQQQQQQQQQQQQQQ
-QQQQQQQQQQQQQQQQQQQ, 25/02/2021 00:45
+News --------------------
+['Happy new txt.']
+['London'], 13/03/2021 21:25
+-----------------------------------------------
 
 News --------------------
-Thia is a Nes
-Lorasa, 28/02/2021 18:28
-
-Private Ad --------------------
-This is Ad
-Actual until: 01/01/2023, [672] days left
+['Happy txt.']
+['Addis ababa'], 13/03/2021 21:25
 -----------------------------------------------
 
 Private Ad --------------------
-Thisjhjhjh
-Actual until: 01/02/2025, 1434 days left
+['Sell the txt.']
+Actual until: 01/01/2025, 1390 days left
 -----------------------------------------------
 
-News --------------------
-['Readability counts.']
-['01/01/2025'], 28/02/2021 19:28
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 993 days left
 -----------------------------------------------
 
-News --------------------
-['Although practicality beats purity.']
-['Minsk'], 28/02/2021 19:28
------------------------------------------------
-
-News --------------------
-['Errors should never pass silently.']
-['Hhhshhsahd'], 28/02/2021 19:28
------------------------------------------------
-
-News --------------------
+The Zen of Python --------------------
 ['Unless explicitly silenced.']
-['01/01/2005'], 28/02/2021 19:28
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Flat is better than nested.']
+Number of Zen is: 5
 -----------------------------------------------
 
 News --------------------
-Readability counts.
-01/01/2025, 28/02/2021 19:48
+['Happy new txt.']
+['London'], 13/03/2021 21:26
 -----------------------------------------------
 
 News --------------------
-Readability counts.
-01/01/2025, 28/02/2021 19:50
------------------------------------------------
-
-News --------------------
-Although practicality beats purity.
-Minsk, 28/02/2021 19:50
------------------------------------------------
-
-News --------------------
-Errors should never pass silently.
-Hhhshhsahd, 28/02/2021 19:50
------------------------------------------------
-
-News --------------------
-Unless explicitly silenced.
-01/01/2005, 28/02/2021 19:50
------------------------------------------------
-
-News --------------------
-Readability counts.
-01/01/2025, 28/02/2021 20:25
------------------------------------------------
-
-News --------------------
-Although practicality beats purity.
-Minsk, 28/02/2021 20:25
------------------------------------------------
-
-News --------------------
-Errors should never pass silently.
-Hhhshhsahd, 28/02/2021 20:25
------------------------------------------------
-
-News --------------------
-Unless explicitly silenced.
-01/01/2005, 28/02/2021 20:25
------------------------------------------------
-
-News --------------------
-This Neas
-Londm, 28/02/2021 20:25
+['Happy txt.']
+['Addis ababa'], 13/03/2021 21:26
 -----------------------------------------------
 
 Private Ad --------------------
-Advert is
-Actual until: 02/05/2022, 428 days left
+['Sell the txt.']
+Actual until: 01/01/2025, 1390 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 993 days left
 -----------------------------------------------
 
 The Zen of Python --------------------
-Errors should never pass silently.
-Number of Zen is: 10t
+['Unless explicitly silenced.']
+Number of Zen is: 11
 -----------------------------------------------
 
 The Zen of Python --------------------
-Readability counts.
-Number of Zen is: None
+['Flat is better than nested.']
+Number of Zen is: 5
 -----------------------------------------------
 
-The Zen of Python --------------------
-Although practicality beats purity.
-Number of Zen is: None
+News --------------------
+Happy New json.
+London, 13/03/2021 21:26
 -----------------------------------------------
 
-The Zen of Python --------------------
-Errors should never pass silently.
-Number of Zen is: None
+News --------------------
+Happy json me.
+Addis Ababa, 13/03/2021 21:26
 -----------------------------------------------
 
-The Zen of Python --------------------
-Unless explicitly silenced.
-Number of Zen is: None
+Private Ad --------------------
+Sell the json.
+Actual until: 01/10/2028, 2759 days left
 -----------------------------------------------
 
-The Zen of Python --------------------
-Readability counts.
-Number of Zen is: 7
------------------------------------------------
-
-The Zen of Python --------------------
-Although practicality beats purity.
-Number of Zen is: 9
------------------------------------------------
-
-The Zen of Python --------------------
-Errors should never pass silently.
-Number of Zen is: 10
+Private Ad --------------------
+Sell json dog.
+Actual until: 01/12/2023, 993 days left
 -----------------------------------------------
 
 The Zen of Python --------------------
@@ -172,69 +83,29 @@ Unless explicitly silenced.
 Number of Zen is: 11
 -----------------------------------------------
 
-News --------------------
-Readability counts.
-01/10/2028, 28/02/2021 21:59
------------------------------------------------
-
-News --------------------
-Although practicality beats purity.
-05/01/2022, 28/02/2021 21:59
------------------------------------------------
-
-Private Ad --------------------
-Readability counts.
-Actual until: 01/10/2028, 2772 days left
------------------------------------------------
-
-Private Ad --------------------
-Although practicality beats purity.
-Actual until: 05/01/2022, 311 days left
------------------------------------------------
-
-Private Ad --------------------
-Readability counts.
-Actual until: 01/01/2025, 1395 days left
------------------------------------------------
-
-Private Ad --------------------
-Although practicality beats purity.
-Actual until: 15/10/2022, 586 days left
------------------------------------------------
-
-Private Ad --------------------
-Errors should never pass silently.
-Actual until: 01/09/2032, 4195 days left
------------------------------------------------
-
-Private Ad --------------------
-Unless explicitly silenced.
-Actual until: 01/10/2028, 2764 days left
------------------------------------------------
-
-News --------------------
-Readability counts.
-01/10/2028, 08/03/2021 21:20
------------------------------------------------
-
-News --------------------
-Although practicality beats purity.
-05/01/2022, 08/03/2021 21:20
------------------------------------------------
-
 The Zen of Python --------------------
-Readability counts.
-Number of Zen is: 7
+Flat is better than nested.
+Number of Zen is: 5
 -----------------------------------------------
 
-The Zen of Python --------------------
-Although practicality beats purity.
-Number of Zen is: 9
+News --------------------
+Happy New xml.
+London, 13/03/2021 21:26
 -----------------------------------------------
 
-The Zen of Python --------------------
-Errors should never pass silently.
-Number of Zen is: 10
+News --------------------
+Test news for xml.
+Paris, 13/03/2021 21:26
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml.
+Actual until: 01/03/2028, 2545 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml second.
+Actual until: 01/03/2022, 353 days left
 -----------------------------------------------
 
 The Zen of Python --------------------
@@ -242,54 +113,249 @@ Unless explicitly silenced.
 Number of Zen is: 11
 -----------------------------------------------
 
-News --------------------
-Readability counts.
-01/01/2025, 08/03/2021 21:21
------------------------------------------------
-
-News --------------------
+The Zen of Python --------------------
 Although practicality beats purity.
-15/10/2022, 08/03/2021 21:21
+Number of Zen is: 9
 -----------------------------------------------
 
 News --------------------
-Errors should never pass silently.
-01/09/2032, 08/03/2021 21:21
+sdsfsdfs
+sdfsfds, 13/03/2021 23:47
 -----------------------------------------------
 
 News --------------------
-Unless explicitly silenced.
-01/10/2028, 08/03/2021 21:21
+['Happy new txt.']
+['London'], 13/03/2021 23:48
 -----------------------------------------------
 
 News --------------------
-Readability counts.
-01/01/2025, 08/03/2021 21:22
+['Happy txt.']
+['Addis ababa'], 13/03/2021 23:48
 -----------------------------------------------
 
-News --------------------
-Readability counts.
-01/01/2025, 08/03/2021 21:24
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1390 days left
 -----------------------------------------------
 
-News --------------------
-Although practicality beats purity.
-15/10/2022, 08/03/2021 21:24
------------------------------------------------
-
-News --------------------
-Errors should never pass silently.
-01/09/2032, 08/03/2021 21:24
------------------------------------------------
-
-News --------------------
-Unless explicitly silenced.
-01/10/2028, 08/03/2021 21:24
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 993 days left
 -----------------------------------------------
 
 The Zen of Python --------------------
-Readability counts.
-Number of Zen is: 7
+['Unless explicitly silenced.']
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Flat is better than nested.']
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+['Happy new txt.']
+['London'], 13/03/2021 23:52
+-----------------------------------------------
+
+News --------------------
+['Happy txt.']
+['Addis ababa'], 13/03/2021 23:52
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1390 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 993 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Unless explicitly silenced.']
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Flat is better than nested.']
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+['Happy new txt.']
+['London'], 13/03/2021 23:53
+-----------------------------------------------
+
+News --------------------
+['Happy txt.']
+['Addis ababa'], 13/03/2021 23:53
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1390 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 993 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Unless explicitly silenced.']
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Flat is better than nested.']
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+['Happy new txt.']
+['London'], 13/03/2021 23:53
+-----------------------------------------------
+
+News --------------------
+['Happy txt.']
+['Addis ababa'], 13/03/2021 23:53
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1390 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 993 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Unless explicitly silenced.']
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Flat is better than nested.']
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+['Happy new txt.']
+['London'], 14/03/2021 00:10
+-----------------------------------------------
+
+News --------------------
+['Happy txt.']
+['Addis ababa'], 14/03/2021 00:10
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Unless explicitly silenced.']
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Flat is better than nested.']
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+['Happy new txt.']
+['London'], 14/03/2021 00:12
+-----------------------------------------------
+
+News --------------------
+['Happy txt.']
+['Addis ababa'], 14/03/2021 00:12
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Unless explicitly silenced.']
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Flat is better than nested.']
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New json.
+London, 14/03/2021 00:12
+-----------------------------------------------
+
+News --------------------
+Happy json me.
+Addis Ababa, 14/03/2021 00:12
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the json.
+Actual until: 01/10/2028, 2758 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell json dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New xml.
+London, 14/03/2021 00:12
+-----------------------------------------------
+
+News --------------------
+Test news for xml.
+Paris, 14/03/2021 00:12
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml.
+Actual until: 01/03/2028, 2544 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml second.
+Actual until: 01/03/2022, 352 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
 -----------------------------------------------
 
 The Zen of Python --------------------
@@ -297,13 +363,1078 @@ Although practicality beats purity.
 Number of Zen is: 9
 -----------------------------------------------
 
-The Zen of Python --------------------
-Errors should never pass silently.
-Number of Zen is: 10
+News --------------------
+Happy New xml.
+London, 14/03/2021 00:12
+-----------------------------------------------
+
+News --------------------
+Test news for xml.
+Paris, 14/03/2021 00:12
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml.
+Actual until: 01/03/2028, 2544 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml second.
+Actual until: 01/03/2022, 352 days left
 -----------------------------------------------
 
 The Zen of Python --------------------
 Unless explicitly silenced.
 Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Although practicality beats purity.
+Number of Zen is: 9
+-----------------------------------------------
+
+News --------------------
+Happy New json.
+London, 14/03/2021 00:12
+-----------------------------------------------
+
+News --------------------
+Happy json me.
+Addis Ababa, 14/03/2021 00:12
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the json.
+Actual until: 01/10/2028, 2758 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell json dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New json.
+London, 14/03/2021 00:13
+-----------------------------------------------
+
+News --------------------
+Happy json me.
+Addis Ababa, 14/03/2021 00:13
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the json.
+Actual until: 01/10/2028, 2758 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell json dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New xml.
+London, 14/03/2021 00:13
+-----------------------------------------------
+
+News --------------------
+Test news for xml.
+Paris, 14/03/2021 00:13
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml.
+Actual until: 01/03/2028, 2544 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml second.
+Actual until: 01/03/2022, 352 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Although practicality beats purity.
+Number of Zen is: 9
+-----------------------------------------------
+
+News --------------------
+Happy New xml.
+London, 14/03/2021 00:13
+-----------------------------------------------
+
+News --------------------
+Test news for xml.
+Paris, 14/03/2021 00:13
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml.
+Actual until: 01/03/2028, 2544 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml second.
+Actual until: 01/03/2022, 352 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Although practicality beats purity.
+Number of Zen is: 9
+-----------------------------------------------
+
+News --------------------
+['Happy new txt.']
+['London'], 14/03/2021 00:16
+-----------------------------------------------
+
+News --------------------
+['Happy txt.']
+['Addis ababa'], 14/03/2021 00:16
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+News --------------------
+['Happy new txt.']
+['London'], 14/03/2021 00:17
+-----------------------------------------------
+
+News --------------------
+['Happy txt.']
+['Addis ababa'], 14/03/2021 00:17
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+News --------------------
+['Happy new txt.']
+['London'], 14/03/2021 00:20
+-----------------------------------------------
+
+News --------------------
+['Happy txt.']
+['Addis ababa'], 14/03/2021 00:20
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Unless explicitly silenced.']
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Flat is better than nested.']
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+['Happy new txt.']
+['London'], 14/03/2021 00:21
+-----------------------------------------------
+
+News --------------------
+['Happy txt.']
+['Addis ababa'], 14/03/2021 00:21
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Unless explicitly silenced.']
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Flat is better than nested.']
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+['Happy new txt.']
+['London'], 14/03/2021 00:21
+-----------------------------------------------
+
+News --------------------
+['Happy txt.']
+['Addis ababa'], 14/03/2021 00:21
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Unless explicitly silenced.']
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Flat is better than nested.']
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+['Happy new txt.']
+['London'], 14/03/2021 00:21
+-----------------------------------------------
+
+News --------------------
+['Happy txt.']
+['Addis ababa'], 14/03/2021 00:21
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Unless explicitly silenced.']
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Flat is better than nested.']
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New json.
+London, 14/03/2021 00:21
+-----------------------------------------------
+
+News --------------------
+Happy json me.
+Addis Ababa, 14/03/2021 00:21
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the json.
+Actual until: 01/10/2028, 2758 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell json dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New json.
+London, 14/03/2021 00:22
+-----------------------------------------------
+
+News --------------------
+Happy json me.
+Addis Ababa, 14/03/2021 00:22
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the json.
+Actual until: 01/10/2028, 2758 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell json dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New xml.
+London, 14/03/2021 00:22
+-----------------------------------------------
+
+News --------------------
+Test news for xml.
+Paris, 14/03/2021 00:22
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml.
+Actual until: 01/03/2028, 2544 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml second.
+Actual until: 01/03/2022, 352 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Although practicality beats purity.
+Number of Zen is: 9
+-----------------------------------------------
+
+News --------------------
+Happy New xml.
+London, 14/03/2021 00:23
+-----------------------------------------------
+
+News --------------------
+Test news for xml.
+Paris, 14/03/2021 00:23
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml.
+Actual until: 01/03/2028, 2544 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml second.
+Actual until: 01/03/2022, 352 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Although practicality beats purity.
+Number of Zen is: 9
+-----------------------------------------------
+
+News --------------------
+['Happy new txt.']
+['London'], 14/03/2021 00:26
+-----------------------------------------------
+
+News --------------------
+['Happy txt.']
+['Addis ababa'], 14/03/2021 00:26
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Unless explicitly silenced.']
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Flat is better than nested.']
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New json.
+London, 14/03/2021 00:27
+-----------------------------------------------
+
+News --------------------
+Happy json me.
+Addis Ababa, 14/03/2021 00:27
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the json.
+Actual until: 01/10/2028, 2758 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell json dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New xml.
+London, 14/03/2021 00:27
+-----------------------------------------------
+
+News --------------------
+Test news for xml.
+Paris, 14/03/2021 00:27
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml.
+Actual until: 01/03/2028, 2544 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml second.
+Actual until: 01/03/2022, 352 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Although practicality beats purity.
+Number of Zen is: 9
+-----------------------------------------------
+
+News --------------------
+['Happy new txt.']
+['London'], 14/03/2021 00:30
+-----------------------------------------------
+
+News --------------------
+['Happy txt.']
+['Addis ababa'], 14/03/2021 00:30
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Unless explicitly silenced.']
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Flat is better than nested.']
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+['Happy new txt.']
+['London'], 14/03/2021 00:30
+-----------------------------------------------
+
+News --------------------
+['Happy txt.']
+['Addis ababa'], 14/03/2021 00:30
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Unless explicitly silenced.']
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Flat is better than nested.']
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New json.
+London, 14/03/2021 00:31
+-----------------------------------------------
+
+News --------------------
+Happy json me.
+Addis Ababa, 14/03/2021 00:31
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the json.
+Actual until: 01/10/2028, 2758 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell json dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New json.
+London, 14/03/2021 00:31
+-----------------------------------------------
+
+News --------------------
+Happy json me.
+Addis Ababa, 14/03/2021 00:31
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the json.
+Actual until: 01/10/2028, 2758 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell json dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New json.
+London, 14/03/2021 00:31
+-----------------------------------------------
+
+News --------------------
+Happy json me.
+Addis Ababa, 14/03/2021 00:31
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the json.
+Actual until: 01/10/2028, 2758 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell json dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New xml.
+London, 14/03/2021 00:31
+-----------------------------------------------
+
+News --------------------
+Test news for xml.
+Paris, 14/03/2021 00:31
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml.
+Actual until: 01/03/2028, 2544 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml second.
+Actual until: 01/03/2022, 352 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Although practicality beats purity.
+Number of Zen is: 9
+-----------------------------------------------
+
+News --------------------
+Happy New xml.
+London, 14/03/2021 00:31
+-----------------------------------------------
+
+News --------------------
+Test news for xml.
+Paris, 14/03/2021 00:31
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml.
+Actual until: 01/03/2028, 2544 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml second.
+Actual until: 01/03/2022, 352 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Although practicality beats purity.
+Number of Zen is: 9
+-----------------------------------------------
+
+News --------------------
+Happy new txt.
+L, 14/03/2021 00:35
+-----------------------------------------------
+
+News --------------------
+Happy txt.
+A, 14/03/2021 00:35
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell the txt.']
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+['Sell txt dog.']
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Unless explicitly silenced.']
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+['Flat is better than nested.']
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy new txt.
+L, 14/03/2021 00:36
+-----------------------------------------------
+
+News --------------------
+Happy txt.
+A, 14/03/2021 00:36
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the txt.
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell txt dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy new txt.
+London, 14/03/2021 00:37
+-----------------------------------------------
+
+News --------------------
+Happy txt.
+Addis ababa, 14/03/2021 00:37
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the txt.
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell txt dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy new txt.
+London, 14/03/2021 00:37
+-----------------------------------------------
+
+News --------------------
+Happy txt.
+Addis ababa, 14/03/2021 00:37
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the txt.
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell txt dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy new txt.
+London, 14/03/2021 00:37
+-----------------------------------------------
+
+News --------------------
+Happy txt.
+Addis ababa, 14/03/2021 00:37
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the txt.
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell txt dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New json.
+London, 14/03/2021 00:37
+-----------------------------------------------
+
+News --------------------
+Happy json me.
+Addis Ababa, 14/03/2021 00:37
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the json.
+Actual until: 01/10/2028, 2758 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell json dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New xml.
+London, 14/03/2021 00:37
+-----------------------------------------------
+
+News --------------------
+Test news for xml.
+Paris, 14/03/2021 00:37
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml.
+Actual until: 01/03/2028, 2544 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml second.
+Actual until: 01/03/2022, 352 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Although practicality beats purity.
+Number of Zen is: 9
+-----------------------------------------------
+
+News --------------------
+Manual news
+Minsk, 14/03/2021 00:37
+-----------------------------------------------
+
+News --------------------
+Manual News
+Minsk, 14/03/2021 00:38
+-----------------------------------------------
+
+News --------------------
+dssd
+sdd, 14/03/2021 00:41
+-----------------------------------------------
+
+News --------------------
+Happy new txt.
+London, 14/03/2021 00:42
+-----------------------------------------------
+
+News --------------------
+Happy txt.
+Addis ababa, 14/03/2021 00:42
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the txt.
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell txt dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy new txt.
+London, 14/03/2021 00:42
+-----------------------------------------------
+
+News --------------------
+Happy txt.
+Addis ababa, 14/03/2021 00:42
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the txt.
+Actual until: 01/01/2025, 1389 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell txt dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New json.
+London, 14/03/2021 00:42
+-----------------------------------------------
+
+News --------------------
+Happy json me.
+Addis Ababa, 14/03/2021 00:42
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the json.
+Actual until: 01/10/2028, 2758 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell json dog.
+Actual until: 01/12/2023, 992 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Flat is better than nested.
+Number of Zen is: 5
+-----------------------------------------------
+
+News --------------------
+Happy New xml.
+London, 14/03/2021 00:42
+-----------------------------------------------
+
+News --------------------
+Test news for xml.
+Paris, 14/03/2021 00:42
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml.
+Actual until: 01/03/2028, 2544 days left
+-----------------------------------------------
+
+Private Ad --------------------
+Sell the xml second.
+Actual until: 01/03/2022, 352 days left
+-----------------------------------------------
+
+The Zen of Python --------------------
+Unless explicitly silenced.
+Number of Zen is: 11
+-----------------------------------------------
+
+The Zen of Python --------------------
+Although practicality beats purity.
+Number of Zen is: 9
 -----------------------------------------------
 

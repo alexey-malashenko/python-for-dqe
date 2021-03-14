@@ -1,4 +1,6 @@
-Readability counts.|01/01/2025
-Although practicality beats purity.|15/10/2022
-Errors should never pass silently.|01/09/2032
-Unless explicitly silenced.|01/10/2028
+Ad|Sell the txt.|01/01/2025
+News|Happy New txt.|London
+Zen|Unless explicitly silenced.
+Ad|Sell txt dog.|01/12/2023
+News|Happy txt.|Addis Ababa
+Zen|Flat is better than nested.
